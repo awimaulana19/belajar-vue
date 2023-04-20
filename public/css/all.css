@@ -1,0 +1,15 @@
+.bungkus{
+    width: 400px;
+    background-color: rgb(112, 124, 136);
+    padding: 20px;
+    border-radius: 20px;
+    margin-top: 40px;
+}
+
+.selesai{
+    background-color: rgb(217, 89, 196);
+}
+
+.bungkus img{
+    width: 100px;
+}
